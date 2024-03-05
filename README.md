@@ -4,4 +4,4 @@
 <p>Esquerda: [a]</p>
 <p>Baixo: [s]</p>
 <p>Direita: [d]</p>
-<p>Girar [n][m]</p>
+<p>Girar: [n][m]</p>
